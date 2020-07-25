@@ -1,6 +1,3 @@
-/**
- * 稍加改造，md5函数挂在了blog对象上
- */
 (function ($) {
 	var rotateLeft = function (lValue, iShiftBits) {
 		return (lValue << iShiftBits) | (lValue >>> (32 - iShiftBits));
