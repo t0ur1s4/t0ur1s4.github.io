@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Welcome! tourist.</title>
+    <link></link>
+    <description>Only a bunch of nonsense.</description>
+    <language>zh-CN</language>
+    <pubDate>Sat, 25 Jul 2020 23:47:25 +0800</pubDate>
+    <lastBuildDate>Sat, 25 Jul 2020 23:47:25 +0800</lastBuildDate>
+    <generator>Jekyll v3.8.5</generator>
+    <atom:link href="/static/xml/rss.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
